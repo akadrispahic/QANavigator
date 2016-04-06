@@ -1,0 +1,12 @@
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\NavigatorTest.exe.config
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\NavigatorTest.exe
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\NavigatorTest.pdb
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\nunit.framework.dll
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\WebDriver.dll
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\nunit.framework.xml
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\WebDriver.xml
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\obj\Debug\NavigatorTest.exe
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\obj\Debug\NavigatorTest.pdb
+C:\Users\Amina\Documents\Visual Studio 2015\Projects\NavigatorTest\NavigatorTest\obj\Debug\NavigatorTest.csprojResolveAssemblyReference.cache
